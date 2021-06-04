@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "699782168923",
+    "firebase_url": "https://loja-a0eb5-default-rtdb.firebaseio.com",
+    "project_id": "loja-a0eb5",
+    "storage_bucket": "loja-a0eb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699782168923:android:a03a99a40bd20f4af35a7e",
+        "android_client_info": {
+          "package_name": "br.com.eid.loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699782168923-7e268sakfe6lk57ts6643lfkccckgad6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyR_oaGqZg1HeNowdvV7JkaBTDK6Xt1HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699782168923-7e268sakfe6lk57ts6643lfkccckgad6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
